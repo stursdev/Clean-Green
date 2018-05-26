@@ -1,7 +1,9 @@
 # CSC-Project-Clean-Green
 Project "Clean &amp; Green" for CSC436/446
 Clean & Green Web Application for easy recycling.
+
 Developed by:
+
 Front-End Developer: Sam Tursunov
 Back-End Developer: Naz Islam
 
